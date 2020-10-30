@@ -5,9 +5,10 @@ using namespace std;
 int main (){
 	string user,pass;
 	string user1,pass1;
-	int pilih,n1,n2,n3,m1,m2,m3;
+	int pilih;
 	//apabila menggunakan char maka pada bagian case di beri tanda petik ('x')
-	double t1,t2;
+	double t1,t2,n1,n2,n3,m1,m2,m3;
+	//apabila ingin menampilkan angka dibelakang koma harus menggunakan float/double
 	
 	
 	cout<< "Login akun===========" <<endl;
